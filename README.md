@@ -142,5 +142,5 @@
 </div>
 
 <div align="center">
-Made with 💜 by <strong>v6 EhSaN</strong> · <a href="https://github.com/DZTeamStudio">DZTeam</a> · <a href="https://discord.gg/53HkRrvzks">Discord</a> · <a href="https://www.youtube.com/@DZTeamStudio">YouTube</a>
+by <strong>v6 EhSaN</strong> · <a href="https://github.com/DZTeamStudio">DZTeam</a> · <a href="https://discord.gg/53HkRrvzks">Discord</a> · <a href="https://www.youtube.com/@DZTeamStudio">YouTube</a>
 </div>
