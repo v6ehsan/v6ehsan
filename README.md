@@ -11,10 +11,10 @@
 <a href="https://github.com/v6ehsan">
   <img src="https://img.shields.io/badge/GitHub-v6ehsan-A855F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0B1120"/>
 </a>
-<a href="https://www.youtube.com/@v6ehsan">
-  <img src="https://img.shields.io/badge/YouTube-@v6ehsan-8B5CF6?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0B1120"/>
+<a href="https://www.youtube.com/@DZTeamStudio">
+  <img src="https://img.shields.io/badge/YouTube-@DZTeamStudio-8B5CF6?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0B1120"/>
 </a>
-<a href="https://discord.gg/ENMnprrc8Y">
+<a href="https://discord.gg/53HkRrvzks">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-7C3AED?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor=0B1120"/>
 </a>
 <a href="mailto:v6ehsan@gmail.com">
@@ -112,10 +112,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1120,35:111827,70:312E81,100:7C3AED&height=105&section=header&text=CONNECT%20WITH%20ME&fontSize=30&fontColor=E9D5FF&animation=fadeIn"/>
 <br><br>
-<a href="https://discord.gg/ENMnprrc8Y">
+<a href="https://discord.gg/53HkRrvzks">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1120"/>
 </a>
-<a href="https://www.youtube.com/@v6ehsan">
+<a href="https://www.youtube.com/@DZTeamStudio">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=0B1120"/>
 </a>
 <a href="https://github.com/v6ehsan">
