@@ -1,39 +1,57 @@
-# 🎮 Game Security Architect
+# 💼 Full Stack Developer
 
-**Building Secure & High-Performance Game Infrastructure**  
-*15+ years of expertise in game server security, architecture, and optimization*
+**Building Scalable Web & Software Solutions**  
+*15+ years of expertise in end-to-end development, architecture, and system design*
 
 ---
 
 ## 🌟 About Me
 
-I'm a specialized Game Security Architect with over 15 years of hands-on experience designing, deploying, and maintaining secure, scalable game server infrastructure. My focus spans anti-cheat systems, network security, server optimization, and building resilient architectures that handle millions of concurrent players.
+I'm an experienced Full Stack Developer with over 15 years of hands-on expertise in designing and building robust web applications, backend systems, and scalable software infrastructure. My experience spans the entire development lifecycle—from frontend UI/UX to database optimization and cloud deployment.
 
 ### Core Expertise
-- 🔐 **Security Architecture** – Anti-cheat systems, DDoS mitigation, data protection
-- ⚡ **High-Performance Systems** – Low-latency servers, optimization, load balancing
-- 🏗️ **Backend Infrastructure** – Distributed systems, microservices, database optimization
-- 🎯 **Game Server Development** – Real-time multiplayer, state synchronization, game logic
+- 🎨 **Frontend Development** – Modern responsive interfaces, frameworks, performance optimization
+- 🔧 **Backend Architecture** – RESTful APIs, microservices, system design, scalability
+- 🗄️ **Database Design** – Schema optimization, query optimization, data modeling
+- ☁️ **DevOps & Deployment** – CI/CD pipelines, cloud infrastructure, containerization
+- 🏗️ **System Architecture** – Distributed systems, caching, load balancing, messaging queues
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks**  
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**  
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![JavaScript/Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 
-**Databases & Infrastructure**  
+**Databases & Data**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
-**Media & Tools**  
+**Infrastructure & Tools**  
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Design & Media**  
 ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -72,25 +90,28 @@ I'm a specialized Game Security Architect with over 15 years of hands-on experie
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ENMnprrc8Y)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@v6ehsan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v6ehsan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-## 📈 Profile Views
+## 📈 Profile Stats
 
 <div align="center">
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=v6ehsan&icon=0&color=0)
 
-*Last Updated: 2024*
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 "Security is not an afterthought—it's the foundation."
+### 💡 "Code today, infrastructure tomorrow. Full stack solutions, every step of the way."
+
+---
+
+<sub>Always learning, always building. Let's create something amazing together! 🚀</sub>
 
 </div>
